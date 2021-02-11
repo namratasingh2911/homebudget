@@ -1,0 +1,21 @@
+.example-container {
+    height: 90%;
+    overflow: auto;
+  }
+  
+  h1{
+      margin-bottom: 244px;
+  }
+
+.mat-footer-cell,.mat-header-cell {
+    background-color: cadetblue;
+    font-weight: bolder;
+}
+
+.red-color{
+    color:red;
+}
+
+.green-color{
+    color:green;
+}

@@ -1,0 +1,41 @@
+.header img{
+    height:10%;
+    float:left;
+    width: 70px;
+    height:70px;
+    position: relative;
+}
+
+.header h1{
+    height:10%;
+    position: relative;
+    top:18px;
+    text-align:center;
+    font-weight: 900;
+}
+
+.subheader {
+    margin-top: 70px;
+    height:10%;
+    display:flex;
+    justify-content: space-between;
+}
+button{
+    height : 80%;
+    width: 15%;
+    background-color: beige;
+}
+
+.table {
+  height :70%
+}
+
+.total-class-amount{
+    display: inline-flex;
+    float:right;
+    flex:  0 0 17%;
+}
+
+
+
+
